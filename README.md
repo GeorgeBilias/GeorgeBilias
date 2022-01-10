@@ -1,4 +1,5 @@
-### Hi there 👋
+## Since you're here, here's a pro tip for you. If your code works from the first time, you've definitely done something wrong.
+#### Fun Fact: Hunting unicorns is legal in Michigan.
 
 <!--
 **GeorgeBilias/GeorgeBilias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
