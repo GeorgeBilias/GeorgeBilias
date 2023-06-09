@@ -5,21 +5,9 @@
 <img align="center" alt="Coding" width="400"
 src=https://media.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif>
 
-- 🔭 I’m currently working on **<!-- Insert Here || Delete -->**
+- 🔭 I’m currently working on a GPS Application with Android Studio and not failing this semester
 
-- 🌱 I’m currently learning **<!-- Insert Here || Delete -->**
- 
-- 👯 I’m looking to collaborate on **<!-- Insert Here || Delete -->**
-
-- 🤔 I’m looking for help with **<!-- Insert Here || Delete -->**
-
-- 💬 Ask me about **<!-- Insert Here || Delete -->**
-
-- 📫 How to reach me: **<!-- Insert Here || Delete -->**
-
-- 😄 Pronouns: **<!-- Insert Here || Delete -->**
-
-- ⚡ Fun fact **<!-- Insert Here || Delete -->**
+- 🌱 I’m currently learning DBMS and some other boring stuff, if you care though I can elaborate.(Jk,too lazy...)
 
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
