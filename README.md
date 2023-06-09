@@ -1,7 +1,8 @@
 <!-- [![MasterHead](INSERT BANNER IMAGE LINK HERE (GIF WORKS TOO)](INSERT REDIRECTION LINK HERE) -->
-<h1 align="center">Hi 👋, I'm George Bilias</h1>
-<h3 align="center">A passionate developer from Greece</h3>
-<!-- <img align="right" alt="Coding" width="400" src="INSERT IMAGE LINK HERE (GIF WORKS TOO)"> -->
+<h1 align="center">I'm George Bilias (if it wasn't obvious)</h1>
+<h1 align="center"> I'm currently studying Conputer Science at AUEB </h1>
+
+<img align="right" alt="Coding" width="400" src="https://tenor.com/bDqd5.gif>
 
 - 🔭 I’m currently working on **<!-- Insert Here || Delete -->**
 
