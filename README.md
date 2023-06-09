@@ -2,7 +2,8 @@
 <h1 align="center">I'm George Bilias (if it wasn't obvious)</h1>
 <h1 align="center"> I'm currently studying Conputer Science at AUEB </h1>
 
-<img align="center" alt="Coding" width="400" src="https://tenor.com/bDqd5.gif">
+<img align="center" alt="Coding" width="400"
+src=https://media.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif>
 
 - 🔭 I’m currently working on **<!-- Insert Here || Delete -->**
 
