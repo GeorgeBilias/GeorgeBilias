@@ -5,7 +5,7 @@
 <img align="center" alt="Coding" width="400"
 src=https://media.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif>
 
-- 🔭 I’m currently working on a GPS Application with Android Studio and not failing this semester
+- 🔭 I’m currently working on a GPS Application with Android Studio and trying not to fail this semester
 
 - 🌱 I’m currently learning DBMS and some other boring stuff, if you care though I can elaborate.(Jk,too lazy...)
 
