@@ -22,4 +22,4 @@ src=https://media.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></p>
 
-![Metrics](https://metrics.lecoq.io/?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FAthens)
+![Metrics](https://metrics.lecoq.io/GeorgeBilias
