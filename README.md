@@ -5,9 +5,9 @@
 <img align="center" alt="Coding" width="400"
 src=https://media.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif>
 
-- 🔭 Currently working on a GPS Application with Android Studio and trying not to fail this semester
+- 👨‍💻 Currently working on a GPS Application with Android Studio and trying not to fail this semester
 
-- 🌱 and also learning DBMS and some other boring nerd stuff.
+- 📚 I’m  also learning DBMS and some other boring nerd stuff.
 
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
