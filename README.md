@@ -5,7 +5,7 @@
 <img align="center" alt="Coding" width="400"
 src=https://media.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif>
 
-- 👨‍💻 Currently working on a Web Development Project with HTML5, CSS and JavaScript
+- 👨‍💻 Currently working on a Web Development Project with HTML5, CSS and JavaScript and playing around with csv files in Python
 
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
