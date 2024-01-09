@@ -1,1 +1,13 @@
-![Metrics](https://metrics.lecoq.io/GeorgeBilias?template=classic&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FAthens)
+[![Readme Card](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Michael.Ericson19@gmail.com)
+[![Readme Card](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelericson1/)
+
+<img src='https://komarev.com/ghpvc/?username=GeorgeBilias&color=blue' alt='profile view counter' title='profile view counter'>
+
+<p align="center">
+<a href="https://git.io/streak-stats">
+  <img height="150px" width="405px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeBilias&hide_border=true&fire=FF5A5F&stroke=FF5A5F&background=00000000&ring=E5DFFF&sideNums=FF5A5F&sideLabels=C197BA&currStreakLabel=ECCFF5&currStreakNum=ECCFF5&dates=FCE544" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height ="150px" width="405px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBilias&langs_count=6&layout=compact&title_color=FF5A5F&text_color=E5DFFF&bg_color=00000000&hide_border=true&hide_title=true" />
+</a>
+</p>
