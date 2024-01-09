@@ -1,5 +1,5 @@
-[![Readme Card](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Michael.Ericson19@gmail.com)
-[![Readme Card](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelericson1/)
+[![Readme Card](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgebiliasgr@gmail.com)
+[![Readme Card](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-bilias-02/)
 
 <img src='https://komarev.com/ghpvc/?username=GeorgeBilias&color=blue' alt='profile view counter' title='profile view counter'>
 
