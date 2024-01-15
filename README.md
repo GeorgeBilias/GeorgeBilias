@@ -1,6 +1,6 @@
 [![Readme Card](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgebiliasgr@gmail.com)
 [![Readme Card](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-bilias-02/)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GeorgeBilias)](https://git.io/streak-stats)
 <img src='https://komarev.com/ghpvc/?username=GeorgeBilias&color=blue' alt='profile view counter' title='profile view counter'>
 
 <p align="center">
