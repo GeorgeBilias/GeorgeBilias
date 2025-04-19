@@ -10,5 +10,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height ="150px" width="405px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBilias&langs_count=6&layout=compact&title_color=FF5A5F&text_color=E5DFFF&bg_color=00000000&hide_border=true&hide_title=true" />
 </a>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeBilias&show_icons=true&theme=dracula&bg_color=4AB8E4&hide_border=true&locale=en&layout=compact" alt="GeorgeBilias" width="350"/> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeBilias&show_icons=true&theme=dracula&bg_color=4AB8E4&hide_border=true&locale=en" alt="GeorgeBilias" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeBilias&show_icons=true&theme=dracula&bg_color=091216&hide_border=true&locale=en&layout=compact" alt="GeorgeBilias" width="350"/> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeBilias&show_icons=true&theme=dracula&bg_color=091216&hide_border=true&locale=en" alt="GeorgeBilias" /></p>
 </p>
