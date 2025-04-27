@@ -1,11 +1,11 @@
 ---
 <!-- ABOUT ME -->
-<h1 align="center">ABOUT ME</h1>
+<h1 align="center">Hi, I'm George Bilias! 👋</h1>
 
 <p align="center">
-  Hi, I'm George Bilias! 👋  
-  Passionate about Machine Learning, AI, and Software Development.  
-  Always eager to learn new technologies and contribute to exciting projects.
+  I'm passionate about <strong>coding</strong> 💻, from building software to exploring the world of <strong>Machine Learning</strong> and <strong>AI</strong>.  
+  When I'm not coding, you’ll find me at the gym 🏋️‍♂️, pushing myself to stay fit and healthy.  
+  Always excited to learn new technologies and work on innovative projects! 🚀
 </p>
 
 ---
