@@ -31,7 +31,7 @@
 <!-- THIRD STATS BANNER CENTERED BELOW -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBilias&langs_count=6&layout=donut-vertical&title_color=FF5A5F&text_color=E5DFFF&bg_color=00000000&hide_border=true&hide_title=true&exclude_repo=machine-learning-3,Exploring-Why-Civil-Resistance-Works,Machine-Learning_1,AI-Project-2" width="40%" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBilias&langs_count=6&layout=donut-vertical&title_color=FF5A5F&text_color=E5DFFF&bg_color=00000000&hide_border=true&hide_title=true&hide=jupyter%20notebook,VHDL&width="40%" alt="Top Languages"/>
   </a>
 </p>
 
