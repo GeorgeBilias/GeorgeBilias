@@ -12,9 +12,9 @@ Always eager to learn new technologies and contribute to exciting projects.
 <h1 align="center">STATS</h1>
 
 <!-- STATS IN TABLE FOR PERFECT SIZE MATCHING -->
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=GeorgeBilias&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" width="100%" alt="GitHub Streak"/>
       </a>
