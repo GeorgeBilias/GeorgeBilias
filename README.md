@@ -7,8 +7,6 @@
   Always eager to learn new technologies and contribute to exciting projects.
 </p>
 
----
-
 <h1 align="center">STATS</h1>
 
 <!-- STATS IN TABLE FOR PERFECT SIZE MATCHING -->
