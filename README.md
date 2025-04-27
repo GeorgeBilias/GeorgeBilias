@@ -11,15 +11,21 @@ Always eager to learn new technologies and contribute to exciting projects.
 
 <h1 align="center">STATS</h1>
 
-<p align="center">
-  <!-- FIRST TWO BANNERS SIDE BY SIDE WITH SAME WIDTH & HEIGHT -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=GeorgeBilias&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" width="49%" height="200px" alt="GitHub Streak"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=GeorgeBilias&show_icons=true&theme=github_dark" width="49%" height="200px" alt="GitHub Stats"/>
-  </a>
-</p>
+<!-- STATS IN TABLE FOR PERFECT SIZE MATCHING -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=GeorgeBilias&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" width="100%" alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=GeorgeBilias&show_icons=true&theme=github_dark" width="100%" alt="GitHub Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- THIRD STATS BANNER CENTERED BELOW -->
 <p align="center">
@@ -40,4 +46,11 @@ Always eager to learn new technologies and contribute to exciting projects.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/george-bilias-02/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GeorgeBilias&color=blue" alt="Profile Views" title="Profile Views"/>
+</p>
