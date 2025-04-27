@@ -2,9 +2,9 @@
 <h1 align="center">ABOUT ME</h1>
 
 <p align="center">
-Hi, I'm George Bilias! 👋  
-Passionate about Machine Learning, AI, and Software Development.  
-Always eager to learn new technologies and contribute to exciting projects.
+  Hi, I'm George Bilias! 👋  
+  Passionate about Machine Learning, AI, and Software Development.  
+  Always eager to learn new technologies and contribute to exciting projects.
 </p>
 
 ---
@@ -12,7 +12,7 @@ Always eager to learn new technologies and contribute to exciting projects.
 <h1 align="center">STATS</h1>
 
 <!-- STATS IN TABLE FOR PERFECT SIZE MATCHING -->
-<table align="center" cellspacing="0" cellpadding="0"">
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://git.io/streak-stats">
@@ -27,7 +27,6 @@ Always eager to learn new technologies and contribute to exciting projects.
   </tr>
 </table>
 
-
 <!-- THIRD STATS BANNER CENTERED BELOW -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -35,21 +34,26 @@ Always eager to learn new technologies and contribute to exciting projects.
   </a>
 </p>
 
----
-
 <h1 align="center">MY SOCIALS</h1>
 
 <p align="center">
-  <a href="https://www.instagram.com/_georgebi_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:georgebiliasgr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/george-bilias-02/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.instagram.com/_georgebi_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:georgebiliasgr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/george-bilias-02/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
+
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GeorgeBilias&color=blue" alt="Profile Views" title="Profile Views"/>
+</p>
+
+
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GeorgeBilias&color=blue" alt="Profile Views" title="Profile Views"/>
+</p>
+
 
 <!-- PROFILE VIEWS -->
 <p align="center">
