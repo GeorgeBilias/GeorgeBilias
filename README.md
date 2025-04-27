@@ -47,15 +47,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GeorgeBilias&color=blue" alt="Profile Views" title="Profile Views"/>
 </p>
-
-
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GeorgeBilias&color=blue" alt="Profile Views" title="Profile Views"/>
-</p>
-
-
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GeorgeBilias&color=blue" alt="Profile Views" title="Profile Views"/>
-</p>
