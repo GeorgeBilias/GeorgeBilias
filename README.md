@@ -12,20 +12,21 @@ Always eager to learn new technologies and contribute to exciting projects.
 <h1 align="center">STATS</h1>
 
 <!-- STATS IN TABLE FOR PERFECT SIZE MATCHING -->
-<table align="center" cellspacing="0" cellpadding="0">
+<table align="center" cellspacing="0" cellpadding="0"">
   <tr>
-    <td align="center" style="border: none;">
+    <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=GeorgeBilias&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" width="100%" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=GeorgeBilias&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&hide_border=true" width="100%" alt="GitHub Streak"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=GeorgeBilias&show_icons=true&theme=github_dark" width="100%" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=GeorgeBilias&show_icons=true&theme=github_dark&hide_border=true" width="100%" alt="GitHub Stats"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 <!-- THIRD STATS BANNER CENTERED BELOW -->
 <p align="center">
