@@ -4,7 +4,7 @@
 
 <h1 align="center">STATS</h1>
 <!-- START OF PARAGRAPH !-->
-<p align="center">
+<p>
 <!-- FIRST STATS BANNER !-->
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GeorgeBilias&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 <!-- SECOND STATS BANNER !-->
