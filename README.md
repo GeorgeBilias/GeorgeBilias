@@ -1,7 +1,6 @@
 <!-- ABOUT ME -->
 <h1 align="center">ABOUT ME</h1>
 
-<!-- Fill this section with some details about yourself -->
 <p align="center">
 Hi, I'm George Bilias! 👋  
 Passionate about Machine Learning, AI, and Software Development.  
@@ -12,22 +11,20 @@ Always eager to learn new technologies and contribute to exciting projects.
 
 <h1 align="center">STATS</h1>
 
-<!-- STATS SECTION -->
 <p align="center">
   <!-- FIRST TWO BANNERS SIDE BY SIDE -->
-  <a href="https://git.io/streak-stats">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=GeorgeBilias&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats" style="width: 48%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=GeorgeBilias&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" width="48%" alt="GitHub Streak"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=GeorgeBilias&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=GeorgeBilias&show_icons=true&theme=github_dark" width="48%" alt="GitHub Stats"/>
   </a>
 </p>
 
 <!-- THIRD STATS BANNER CENTERED BELOW -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBilias&langs_count=6&layout=donut-vertical&title_color=FF5A5F&text_color=E5DFFF&bg_color=00000000&hide_border=true&hide_title=true&exclude_repo=machine-learning-3,Exploring-Why-Civil-Resistance-Works,Machine-Learning_1,AI-Project-2" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBilias&langs_count=6&layout=donut-vertical&title_color=FF5A5F&text_color=E5DFFF&bg_color=00000000&hide_border=true&hide_title=true&exclude_repo=machine-learning-3,Exploring-Why-Civil-Resistance-Works,Machine-Learning_1,AI-Project-2" width="40%" alt="Top Languages"/>
   </a>
 </p>
 
