@@ -95,7 +95,7 @@
 
 <!-- PROFILE VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GeorgeBilias&color=blue" alt="Profile Views" title="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=GeorgeBilias&color=blue&style=for-the-badge" alt="Profile Views" title="Profile Views"/>
 </p>
 
 ---
