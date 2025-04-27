@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=solidBlue" alt="Jokes Card" />
 </p>
 
 ---
