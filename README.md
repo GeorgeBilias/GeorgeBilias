@@ -1,3 +1,4 @@
+---
 <!-- ABOUT ME -->
 <h1 align="center">ABOUT ME</h1>
 
@@ -6,6 +7,8 @@
   Passionate about Machine Learning, AI, and Software Development.  
   Always eager to learn new technologies and contribute to exciting projects.
 </p>
+
+---
 
 <h1 align="center">STATS</h1>
 
@@ -32,6 +35,8 @@
   </a>
 </p>
 
+---
+
 <h1 align="center">MY SOCIALS</h1>
 
 <p align="center">
@@ -45,3 +50,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GeorgeBilias&color=blue" alt="Profile Views" title="Profile Views"/>
 </p>
+
+---
